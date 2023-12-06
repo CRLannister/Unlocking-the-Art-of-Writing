@@ -47,6 +47,6 @@ Follow these steps to run the project:
 
 For a detailed understanding of the project, refer to the inline comments within the Jupyter Notebook. These comments explain the purpose and logic behind each code block.
 
-For any questions or clarifications, please feel free to contact me [@linkedin](!https://www.linkedin.com/in/agarwalashishsinghal/)
+For any questions or clarifications, please feel free to contact me [@linkedin](https://www.linkedin.com/in/agarwalashishsinghal/)
 
 Happy exploring the writing process!
