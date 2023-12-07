@@ -37,7 +37,7 @@ Follow these steps to run the project:
     pip install -r requirements.txt
     ```
 
-3. **Run Jupyter Notebook**: Open the Jupyter Notebook (`Writing_Process_Analysis.ipynb`) in your preferred environment (e.g., Jupyter, VSCode with Jupyter extension).
+3. **Run Jupyter Notebook**: Open the Jupyter Notebook (`Unlocking-the-Art-of-Writing.ipynb`) in your preferred environment (e.g., Jupyter, VSCode with Jupyter extension).
 
 4. **Execute Cells**: Run each cell in the notebook sequentially. Make sure to check for any variable or file path adjustments if needed.
 
